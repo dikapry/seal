@@ -70,7 +70,7 @@ function App() {
   alt="Logo TRESNAA"
   style={{ width: '40px', height: '40px', borderRadius: '9999px' }}
 />
-    <h1 className="text-5xl font-extrabold text-center mb-2">Seal Example Apps by REXVILL</h1>
+    <h1 className="text-5xl font-extrabold text-center mb-2">Seal Apps by REXVILL</h1>
     <a
       href="https://x.com/ElsaSyahiba"
       target="_blank"
