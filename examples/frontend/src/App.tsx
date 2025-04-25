@@ -84,7 +84,7 @@ function App() {
     </a>
   </Flex>
   <Flex justify="between" align="center">
-    <h2 className="text-2xl font-bold">Seal Example Apps</h2>
+    <h2 className="text-2xl font-bold">Seal Apps SUI</h2>
     <Box>
       <ConnectButton />
     </Box>
