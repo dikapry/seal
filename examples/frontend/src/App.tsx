@@ -67,10 +67,10 @@ function App() {
   <Flex align="center" justify="center" gap="4">
    <img
   src="https://postimg.cc/qgsc4FtN"
-  alt="Logo REXVILL"
+  alt="Logo TRESNAA"
   style={{ width: '40px', height: '40px', borderRadius: '9999px' }}
 />
-    <h1 className="text-5xl font-extrabold text-center mb-2">Seal Example Apps by REXVIL</h1>
+    <h1 className="text-5xl font-extrabold text-center mb-2">Seal Example Apps by REXVILL</h1>
     <a
       href="https://x.com/ElsaSyahiba"
       target="_blank"
